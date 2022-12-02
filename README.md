@@ -1,4 +1,4 @@
-### Olá! Eu Sou Henrique 👋
+### Olá! Eu Sou o Henrique 👋
 
 - 🚀 → I'm currently working on a personal automation project for the financial market..
 - 🚀 → Atualmente estou trabalhando em um projeto pessoal de automação para o mercado financeiro.
